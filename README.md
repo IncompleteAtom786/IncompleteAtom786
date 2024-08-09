@@ -24,6 +24,7 @@ Happy coding! 🚀</h3>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/desvicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/desvicon/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/0f99d45c-9180-470d-8ab6-f4d730c697a5" alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/21063cc7-c6f7-431d-b055-1b6b5a1d32ff" alt="Axios" width="40" height="40"/>
 
