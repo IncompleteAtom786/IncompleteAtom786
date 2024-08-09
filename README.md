@@ -9,7 +9,7 @@ Happy coding! 🚀</h3>
 
 - 🤝 I’m looking for help with *Web Developer*
 
-- 👨‍💻 All of my projects are available at (https://leetcode.com/u/incompleteAtom786/)
+- 👨‍💻 All of my projects are available at (https://github.com/IncompleteAtom786/)
 
 - 💬 Ask me about *Web Dev & CP*
 
@@ -33,14 +33,14 @@ Happy coding! 🚀</h3>
 <div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amanrajsinghmourya&show_icons=true&locale=en&theme=tokyonight" alt="amanrajsinghmourya" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IncompleteAtom786&show_icons=true&locale=en&theme=tokyonight" alt="Taher H. Kapadia" height="195" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrajsinghmourya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amanrajsinghmourya" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IncompleteAtom786&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Taher h. Kapadia" height="195" />
 
   <!-- GitHub Profile Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanrajsinghmourya&theme=dracula&margin-w=15&margin-h=15" alt="amanrajsinghmourya" height="195" />
+    <img src="https://github-profile-trophy.vercel.app/?username=IncompleteAtom786&theme=dracula&margin-w=15&margin-h=15" alt="Taher H. Kapadia" height="195" />
   </a>
 
 </div>
