@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋, I'm Taher H. K.</h1>
-<h3 align="left">I'm a Flutter dev and competitive coding enthusiast who loves tackling tough problems. Crafting smooth and snappy apps is my jam, and my competitive programming chops help me keep my code sharp and efficient. Check out my projects to see what I've been up to. Let's create something awesome together!</h3>
+<h3 align="left">, a passionate web developer with a knack for crafting elegant and efficient web applications. When I'm not building cool websites and applications, you can find me sharpening my coding skills through competitive programming. I thrive on solving complex problems and love the challenge of optimizing algorithms for speed and efficiency.
+
+Feel free to explore my projects, where you'll find a blend of web development prowess and algorithmic creativity. Let's connect and innovate together!
+
+Happy coding! 🚀</h3>
 
 - 🌱 I’m currently learning *Flutter & Dart*
 
