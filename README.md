@@ -1,17 +1,17 @@
 <h1 align="left">Hi 👋, I'm Taher H. K.</h1>
-<h3 align="left">, a passionate web developer with a knack for crafting elegant and efficient web applications. When I'm not building cool websites and applications, you can find me sharpening my coding skills through competitive programming. I thrive on solving complex problems and love the challenge of optimizing algorithms for speed and efficiency.
+<h3 align="left">A passionate web developer with a knack for crafting elegant and efficient web applications. When I'm not building cool websites and applications, you can find me sharpening my coding skills through competitive programming. I thrive on solving complex problems and love the challenge of optimizing algorithms for speed and efficiency.
 
 Feel free to explore my projects, where you'll find a blend of web development prowess and algorithmic creativity. Let's connect and innovate together!
 
 Happy coding! 🚀</h3>
 
-- 🌱 I’m currently learning *Flutter & Dart*
+- 🌱 I’m currently learning *React & AWS*
 
-- 🤝 I’m looking for help with *Flutter Developer*
+- 🤝 I’m looking for help with *Web Developer*
 
-- 👨‍💻 All of my projects are available at [)
+- 👨‍💻 All of my projects are available at (https://leetcode.com/u/incompleteAtom786/)
 
-- 💬 Ask me about *Flutter & CP*
+- 💬 Ask me about *Web Dev & CP*
 
 </p>
 
