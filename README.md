@@ -5,7 +5,7 @@ Feel free to explore my projects, where you'll find a blend of web development p
 
 Happy coding! 🚀</h3>
 
-- 🌱 I’m currently learning *Java & SpringBoot
+- 🌱 I’m currently learning *Java & SpringBoot*
 
 - 🤝 I’m looking for help with *Java Developement*
 
