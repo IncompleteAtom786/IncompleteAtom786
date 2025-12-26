@@ -5,13 +5,13 @@ Feel free to explore my projects, where you'll find a blend of web development p
 
 Happy coding! 🚀</h3>
 
-- 🌱 I’m currently learning *React & MongoDB*
+- 🌱 I’m currently learning *Java & SpringBoot
 
-- 🤝 I’m looking for help with *Web Developer*
+- 🤝 I’m looking for help with *Java Developement*
 
 - 👨‍💻 All of my projects are available at (https://github.com/IncompleteAtom786/)
 
-- 💬 Ask me about *Web Dev & CP*
+- 💬 Ask me about *Flutter & CP*
 
 </p>
 
@@ -29,21 +29,5 @@ Happy coding! 🚀</h3>
   <img src="https://github.com/user-attachments/assets/21063cc7-c6f7-431d-b055-1b6b5a1d32ff" alt="Axios" width="40" height="40"/>
 
 </p>
-
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=IncompleteAtom786&color=blueviolet" alt="Profile Views">
-
-<div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=IncompleteAtom786&show_icons=true&locale=en&theme=tokyonight" alt="Taher H. Kapadia" height="195" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IncompleteAtom786&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Taher h. Kapadia" height="195" />
-
-  <!-- GitHub Profile Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=IncompleteAtom786&theme=dracula&margin-w=15&margin-h=15" alt="Taher H. Kapadia" height="195" />
-  </a>
 
 </div>
