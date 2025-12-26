@@ -1,5 +1,5 @@
 <h1> Hi 👋, I'm Taher H. K.</h1>
-<h3 align="left">A passionate web developer with a knack for crafting elegant and efficient web applications. When I'm not building cool websites and applications, you can find me sharpening my coding skills through competitive programming. I thrive on solving complex problems and love the challenge of optimizing algorithms for speed and efficiency.
+<h3 align="left">A passionate Flutter developer with a knack for crafting elegant and efficient web applications. When I'm not building cool websites and applications, you can find me sharpening my coding skills through competitive programming. I thrive on solving complex problems and love the challenge of optimizing algorithms for speed and efficiency.
 
 Feel free to explore my projects, where you'll find a blend of web development prowess and algorithmic creativity. Let's connect and innovate together!
 
